@@ -13,7 +13,6 @@ if filter == 'Home':
     else:
         print('Our online store does not have such home clothes!')
 
-
 elif filter == 'Specific':
     Specific = input('Specific clothes (shirt, jacket, tie): ')
     if Specific == 'shirt':
