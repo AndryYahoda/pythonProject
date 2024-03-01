@@ -17,12 +17,3 @@ elif filter == 'snidanok':
     print(snidanok)
 else:
     print('Введіть ща раз')
-
-
-
-
-
-
-
-
-
