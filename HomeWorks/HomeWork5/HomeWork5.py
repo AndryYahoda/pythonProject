@@ -52,6 +52,5 @@
 #         str1 = str1 + " " + item
 #     text = text + dict["separator"] + str1
 #     return text
-
-
-print(process_text(*args, **kwargs))
+#
+# print(process_text(*args, **kwargs))
