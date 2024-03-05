@@ -38,12 +38,14 @@ print(count)
 
 """
 # Task 3 (another way)
+
 word = 'Programming is awesome!'
 print(word.count("a")
 """
 
 """
 # Task 4
+
 user_input = ""
 password = 'Admin123'
 count = 3
@@ -62,6 +64,7 @@ while count > 0:
 
 """
 # Task 5
+
 user_input = input("Enter a word or sentence: ")
 converted_user_input = user_input.swapcase()
 print(converted_user_input)
