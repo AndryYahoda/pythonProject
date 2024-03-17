@@ -1,10 +1,10 @@
-"""
-# Task 1
 
-list = ['Spider-man', 'Ironman', 'Batman', 'Superman', 'Wonder Woman']
-for superhero in list:
-    print(superhero)
-"""
+# Task 1
+#
+# list = ['Spider-man', 'Ironman', 'Batman', 'Superman', 'Wonder Woman']
+# for superhero in list:
+#     print(superhero)
+
 
 """
 # Task 2
