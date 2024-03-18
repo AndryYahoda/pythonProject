@@ -1,7 +1,7 @@
 
 # Task 1
 #
-# list = ['Spider-man', 'Ironman', 'Batman', 'Superman', 'Wonder Woman']
+# list = "Spider-man, Ironman, Batman, Superman, Wonder Woman"
 # for superhero in list:
 #     print(superhero)
 
@@ -62,10 +62,17 @@ while count > 0:
         count -= 1
 """
 
-"""
+
 # Task 5
 
 user_input = input("Enter a word or sentence: ")
-converted_user_input = user_input.swapcase()
-print(converted_user_input)
-"""
+i = 0
+changed_input = []
+while i < len(user_input):
+    temp = user_input[i]
+    if temp.islower():
+        changed_input.append(temp.upper())
+    else:
+        changed_input.append(temp.lower())
+    i += 1
+print(''.join(changed_input))
