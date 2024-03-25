@@ -1,4 +1,3 @@
-
 # Task 1
 #
 # string = "Spider-man, Ironman, Batman, Superman, Wonder Woman"
@@ -7,7 +6,6 @@
 # for superhero in list:
 #
 #     print(superhero.strip())
-
 
 
 # Task 2
@@ -25,7 +23,6 @@
 #         print('Your number is more. Try a lower number!')
 
 
-
 # Task 3
 
 # word = 'Programming is awesome!'
@@ -39,12 +36,10 @@
 # print(count)
 
 
-
 # Task 3 (another way)
 
 # word = 'Programming is awesome!'
-# print(word.count("a")
-
+# print(word.count("a"))
 
 
 # Task 4
@@ -63,7 +58,6 @@
 #     else:
 #         print('You loser')
 #         count -= 1
-
 
 
 # Task 5

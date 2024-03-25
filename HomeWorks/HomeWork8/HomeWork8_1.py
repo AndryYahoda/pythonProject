@@ -1,3 +1,7 @@
+# Task 1
+# print('Поділ з залишком повертає залишок від ділення двох чисел.')
+# Task 2
+# print('Цілий поділ виконує ділення двох чисел і повертає цілу частину результату, відкидаючи дробову частину')
 # Task 3
 # import random
 # number_of_symbols = int(input("Enter number of symbols for generation: "))
@@ -58,8 +62,19 @@
 #     print('Difference in seconds: ', (date2 - date1).total_seconds())
 # else:
 #     print('date1 equals date2')
-
-
-
+# Task 9
+# import sys
+# print(sys.argv)
+# Task 10
+# import time
+#
+# timer = int(input('What is the starting time? '))
+# for k in range(timer):
+#     time.sleep(1)
+#     print(timer)
+#     timer -= 1
+#     if timer == 0:
+#         print('The end')
+#         break
 
 
